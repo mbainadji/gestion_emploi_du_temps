@@ -5,5 +5,19 @@
     "email": "admin@univ-yaounde1.cm",
     "role": "admin",
     "password": "succes123"
+  },
+  {
+    "id": 2,
+    "username": "testuser",
+    "email": "test@ex.com",
+    "role": "student",
+    "password": "pass123"
+  },
+  {
+    "id": 3,
+    "username": "testuser2",
+    "email": "t2@ex.com",
+    "role": "student",
+    "password": "pass123"
   }
 ]
