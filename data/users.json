@@ -19,5 +19,12 @@
     "email": "t2@ex.com",
     "role": "student",
     "password": "pass123"
+  },
+  {
+    "id": 4,
+    "username": "etu2026",
+    "email": "etu2026@univ.cm",
+    "role": "student",
+    "password": "etuPass"
   }
 ]
